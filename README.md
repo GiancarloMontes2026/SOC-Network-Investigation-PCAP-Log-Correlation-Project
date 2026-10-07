@@ -1,4 +1,4 @@
-# SOC Network Investigation & Log Correlation
+# SOC-Network-Investigation-PCAP-Log-Correlation-Project
 
 ## Overview
 
